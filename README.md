@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=00eslam00" alt="00eslam00" /></a> </p>
 
-- 🔭 I’m currently working in [Mr. Road Company](https://mrroadapp.com/)
+- 🔭 I have worked recently in [Mr. Road Company](https://mrroadapp.com/)
 
 - 📫 How to reach me **eslamaminmostafa0@gmail.com**
 
