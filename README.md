@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Amin</h1>
-<h3 align="center">A passionate ASP.NET Backend Developer from Egypt</h3>
+<h3 align="center">A passionate Junior .NET Backend Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=00eslam00&label=Profile%20views&color=0e75b6&style=flat" alt="00eslam00" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I have worked recently in [Mr. Road Company](https://mrroadapp.com/)
 
-- 📫 How to reach me **eslamaminmostafa0@gmail.com**
+- 📫 How to reach me <img src="https://github.com/A-Hemeda/Profile-README-Templates?tab=readme-ov-file#-static" <a href="eslamaminmostafa0@gmail.com"></a> />****
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link](https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link)
 
