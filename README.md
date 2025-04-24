@@ -43,7 +43,7 @@
 <h3 align="left">📄 My Professional Experiences :</h3>
 <p align="center">
 <a href="https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link" target="blank">
-<img src="https://img.icons8.com/?size=100&id=44091&format=png&color=000000" height="60"/>
+<img src="https://img.icons8.com/?size=100&id=wuXCDaLZ8FC4&format=png&color=000000" height="60"/>
 </a>
 </p>
 
@@ -60,4 +60,8 @@
 
 <p align="left"> <!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00eslam00&layout=compact&langs_count=8&theme=codeSTACKr"/>
+</p>
+
+<p align="center"> <!-- Snake -->
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
