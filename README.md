@@ -7,7 +7,7 @@
 
 - 🔭 I have worked recently in [Mr. Road Company](https://mrroadapp.com/)
 
-- 📫 How to reach me <img src="https://github.com/A-Hemeda/Profile-README-Templates?tab=readme-ov-file#-static" <a href="eslamaminmostafa0@gmail.com"></a> />****
+- 📫 How to reach me <img src="https://github.com/A-Hemeda/Profile-README-Templates?tab=readme-ov-file#-static" />**<a href="eslamaminmostafa0@gmail.com"></a>**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link](https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link)
 
