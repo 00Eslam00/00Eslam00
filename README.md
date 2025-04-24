@@ -1,30 +1,63 @@
-<h1 align="center">Hi 👋, I'm Eslam Amin</h1>
-<h3 align="center">A passionate Junior .NET Backend Developer from Egypt</h3>
+<h1 align="center">Hello, I'm Eslam Amin</h1>
+<h2 align="center">Software Engineer | .NET Developer | Backend</h2><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=00eslam00&label=Profile%20views&color=0e75b6&style=flat" alt="00eslam00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=00eslam00" alt="00eslam00" /></a> </p>
-
-- 🔭 I have worked recently in [Mr. Road Company](https://mrroadapp.com/)
-
-- 📫 How to reach me <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />**<a href="eslamaminmostafa0@gmail.com"></a>**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link](https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eslam-amin-34648a240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam-amin-34648a240" height="30" width="40" /></a>
-<a href="https://kaggle.com/eslamsolom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eslamsolom" height="30" width="40" /></a>
-<a href="https://fb.com/eslam.amin.906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam.amin.906" height="30" width="40" /></a>
-<a href="https://instagram.com/eslamamin_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eslamamin_official" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sassoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sassoo" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/solom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="solom" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sassooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sassooo" height="30" width="40" /></a>
+<p align="center">
+<a href="#">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=58b368&pause=1750&size=23">
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center"> <!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=00eslam00&color=75e8e7" height="33"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=00eslam00&show_icons=true&locale=en&layout=compact" alt="00eslam00" /></p>
+<p align="center"> <!-- Gmail & LinkedIn -->
+<a href="mailto:eslamaminmostafa0@gmail.com">
+<img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" height="60"/>
+</a>
+<a href="https://linkedin.com/in/eslam-amin-34648a240" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
+</a>
+    
+<a href="https://fb.com/eslam.amin.906" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eslam.amin.906" height="60" />
+</a>
+    
+<a href="https://instagram.com/eslamamin_official" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eslamamin_official" height="60" />
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=00eslam00&show_icons=true&locale=en" alt="00eslam00" /></p>
+<h3 align="left">🛠️ Languages & Tools:</h3>
+<p align="left">
+<img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,mongodb,redis,postman,html,css,js,docker,python,linux,git,github"/>
+</p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=00eslam00&theme=onestar&row=1&column=7"/>
+</p>
+
+
+<h3 align="left">📄 My Professional Experiences :</h3>
+<p align="center">
+<a href="https://drive.google.com/file/d/1b26_5bESrRyaUg4NL6IUHEk4o645UNMs/view?usp=drive_link" target="blank">
+<img src="https://img.icons8.com/?size=100&id=44091&format=png&color=000000" height="60"/>
+</a>
+</p>
+
+<h3 align="left">Other platforms to reach me:</h3>
+<p align="center">
+
+<a href="https://kaggle.com/eslamsolom" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eslamsolom" height="60"/></a>
+<a href="https://www.codechef.com/users/sassoo" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sassoo" height="60" /></a>
+<a href="https://codeforces.com/profile/solom" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="solom" height="60" /></a>
+<a href="https://www.leetcode.com/sassooo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sassooo" height="60" /></a>
+
+</p>
+
+
+<p align="left"> <!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=00eslam00&layout=compact&langs_count=8&theme=codeSTACKr"/>
+</p>
