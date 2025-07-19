@@ -40,9 +40,9 @@
 </p>
 
 
-<h3 align="left">📄 My Professional Experiences :</h3>
+<h3 align="left">📄 My Resume :</h3>
 <p align="center">
-<a href="https://drive.google.com/file/d/1_e7L6FWPRA7bYof6LPi5ggPL-Rh6QaFH/view?usp=drive_link" target="blank">
+<a href="https://drive.google.com/file/d/1T0TyOP31MfLOsTFsHIJNYNHedvmByCA5/view?usp=drive_link" target="blank">
 <img src="https://img.icons8.com/?size=100&id=wuXCDaLZ8FC4&format=png&color=FFFFFF" height="60"/>
 </a>
 </p>
