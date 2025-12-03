@@ -42,7 +42,7 @@
 
 <h3 align="left">📄 My Resume :</h3>
 <p align="center">
-<a href="https://drive.google.com/file/d/1Bpne6xevpvagQO_leAioNX2rlsvSpu_n/view?usp=drive_link" target="blank">
+<a href="https://drive.google.com/file/d/1OsMPXPVIJKIY-tO4-R1bffcYDvXT8R07/view" target="blank">
 <img src="https://img.icons8.com/?size=100&id=wuXCDaLZ8FC4&format=png&color=FFFFFF" height="60"/>
 </a>
 </p>
